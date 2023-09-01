@@ -1,0 +1,12 @@
+1. How to filter data in pandas dataframe?
+A. We can filter the data by using unique function,and by using column filters,by applying a 
+   conditions to it with the help of logical operators,by using isin and ~isin,loc,iloc,etc.
+
+2. Types of data filters in pandas dataframe?
+A. There are 6 types of data filters in pandas dataframe:
+   1. logical operators
+   2. isin
+   3. ~isin
+   4. loc
+   5. iloc
+   6. columns
